@@ -4,6 +4,7 @@ Aplikasi desktop berbasis **PyQt5 + OpenCV + MediaPipe** untuk menambahkan **mas
 Mendukung **multi-face tracking**, **rotasi 3D (yaw, pitch, roll)**, **auto-scaling**, serta kontrol manual dengan slider.
 
 Link Github: https://github.com/Daffakhruddin/Filter-Face
+
 ---
 
 ## Fitur
